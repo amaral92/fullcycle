@@ -1,2 +1,1 @@
-# fullcycle
-Repositório com as atividades do Curso FullCycle 3.0
+docker run amaral92/fullcycle
